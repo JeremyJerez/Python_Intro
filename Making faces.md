@@ -1,4 +1,4 @@
-# Python_Intro
+# Problem Set 0
 #A series of exercises for CS50 hands-on projects
 """
 This one it's my aproach on the making faces problem
